@@ -4,3 +4,9 @@
 .heading{
     text-align: center;
 }
+a{
+    display: inline;
+    /* position: ; */
+    margin: 10%;
+    margin-top: 200px;
+}
